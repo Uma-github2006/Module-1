@@ -27,12 +27,9 @@ print(string_single_quotes)
 print(string_double_quotes)
 ```
 
+
 ## OUTPUT
-![Screenshot 2025-04-29 103359](https://github.com/user-attachments/assets/3ff2305c-4bd1-4573-ac9b-cb7d8f312747)
-
-
-
-
+![image](https://github.com/user-attachments/assets/12f0e92c-950f-48af-8895-6115f8444318)
 
 
 
