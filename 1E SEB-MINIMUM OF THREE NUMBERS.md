@@ -28,7 +28,7 @@ print(f"The minimum of {num1}, {num2}, {num3} is {min_num}")
 
 
 ## OUTPUT
-![Screenshot 2025-04-29 103359](https://github.com/user-attachments/assets/93be83d1-df43-4f28-a87a-5becceff7e74)
+![image](https://github.com/user-attachments/assets/0dec1ba9-c424-4905-b8e7-adccb0bf678d)
 
 
 ## RESULT
