@@ -30,9 +30,6 @@ print(string_double_quotes)
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/12f0e92c-950f-48af-8895-6115f8444318)
-
-
-
 ## RESULT
 Thus the Python program to print the string in multiple lines using triple quotes is implemented and excecuted successfully.
 
