@@ -10,6 +10,7 @@ To create a Python program to print the string in multiple lines using triple qu
 4. Terminate the program.
 
 ## PROGRAM
+
 212223060293
 E.S.UMA
 
@@ -28,8 +29,12 @@ print(string_double_quotes)
 ```
 
 
+
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/12f0e92c-950f-48af-8895-6115f8444318)
+
+![Screenshot 2025-04-29 103359](https://github.com/user-attachments/assets/13677860-f522-46f8-8e28-f45ec388a70b)
+
+
 ## RESULT
 Thus the Python program to print the string in multiple lines using triple quotes is implemented and excecuted successfully.
 
