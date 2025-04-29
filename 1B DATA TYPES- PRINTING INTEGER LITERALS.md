@@ -1,29 +1,26 @@
-# Experiment No: 1B-  Read two numbers and convert them into a complex number.
+# Experiment No: 1B-  Print the Data Type of a Boolean Variable in Python
 
 ## AIM  
-To write a Python program to read two numbers and convert them into a complex number.
+To write a Python program to declare a variable with the Boolean value False and print its data type.
 
 ## ALGORITHM  
 1.Start the program.
-2.Read the first number from the user and store it in variable a.
-3.Read the second number from the user and store it in variable b.
-4.Convert the two numbers into a complex number using the complex() function and store the result in variable c.
-5.Print the complex number c.
-6.End the program.
+2.Declare a variable a and assign it the Boolean value False.
+3.Use the type() function to get the data type of the variable a.
+4.Print the result of type(a).
+5.End the program.
 
 ## PROGRAM
 212223060293
 E.S.UMA
 
-a=int(input())
-b=int(input())
-c=complex(a,b)
-print(c)
+a=False
+print(type(a))
 
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/a71b086f-bb1d-4545-8a68-3bcde179f96c)
+![image](https://github.com/user-attachments/assets/89e301d6-b1df-491d-885a-31e8f41c2bf4)
 
 
 ## RESULT
-Thus the Python program to read two numbers and convert them into a complex number is implemented and executed successfully.
+Thus the Python program to declare a variable with the Boolean value False and print its data type is implemented and excecuted successfully.
 
