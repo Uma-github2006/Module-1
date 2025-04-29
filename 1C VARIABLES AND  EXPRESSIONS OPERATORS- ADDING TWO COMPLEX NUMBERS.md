@@ -20,7 +20,6 @@ b=int(input())
 c=complex(a,b)
 print(c)
 
-```
 
 ## OUTPUT
 ![image](https://github.com/user-attachments/assets/fe1de2ba-a46b-47c4-b2c8-b0ad48c152cc)
