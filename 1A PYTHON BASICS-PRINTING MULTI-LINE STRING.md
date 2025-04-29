@@ -26,7 +26,6 @@ string_double_quotes = """I am a string literal
 
 print(string_single_quotes)
 print(string_double_quotes)
-```
 
 
 
